@@ -1,0 +1,15 @@
+.DS_Store
+
+# C/C++ executable files
+Match3/match
+Match3/match3
+Raylif/game
+
+# macOS debug symbols
+*.dSYM/
+
+# Object files
+*.o
+
+# VS Code
+.vscode/.DS_Store
